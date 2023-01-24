@@ -1,0 +1,21 @@
+Enter the first expression
+knows (f(x),y)
+Enter the second expression
+knows (J, John)
+The substitutions are:
+('3 / f(x)°, 'John / y']
+main()
+Enter the first expression
+Student (x)
+Enter the second expression
+Teacher (Rose)
+Cannot be unified as the predicates do not match!
+The substitutions are:
+[l
+main0)
+Enter the first expression
+knows (John,x)
+Enter the second expression
+knows (y, Mother (y))
+The substitutions are:
+['John / y', 'Mother(y) / x']
